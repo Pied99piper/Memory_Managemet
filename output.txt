@@ -1,0 +1,16 @@
+
+=================== Global variable ===================
+Global variable 1 address: 0x104ae8000
+Global variable 2 address: 0x104ae8004
+Global variable 3 address: 0x104ae8008
+
+=================== Stack Growth ===================
+Stack at depth 1, address of local_var: 0x16b31f058
+Stack at depth 2, address of local_var: 0x16b31f028
+Stack at depth 3, address of local_var: 0x16b31eff8
+
+=================== Heap Growth ====================
+Heap variable 1 address: 0x148f04080
+Heap variable 2 address: 0x148f04090
+Heap variable 3 address: 0x148f040a0
+=======================================================
